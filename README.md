@@ -8,4 +8,5 @@
 ### If the customer has more than 2000 dollars in their Savng Account, they will be premier customers. Otherwise, they are regular customers.
 
 ### When you want to deposite some money in your account. You can choose the customer and then one account from saving account or checking account. And input the money you want to deposit.
+![Screenshot (102)](https://user-images.githubusercontent.com/43207918/65279102-78369400-dafb-11e9-8075-e651e1850210.png)
 
