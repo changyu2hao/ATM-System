@@ -14,4 +14,6 @@
 ![Screenshot (108)](https://user-images.githubusercontent.com/43207918/65293414-34f31a00-db29-11e9-9a65-c78d7e4c743c.png)
 
 ### You can transfer money from one account to the other account.
+![Screenshot (109)](https://user-images.githubusercontent.com/43207918/65293508-7388d480-db29-11e9-9401-5fee805f689b.png)
 
+### All your account activities will be showed on this page.
