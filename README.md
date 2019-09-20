@@ -17,3 +17,6 @@
 ![Screenshot (109)](https://user-images.githubusercontent.com/43207918/65293508-7388d480-db29-11e9-9401-5fee805f689b.png)
 
 ### All your account activities will be showed on this page.
+![Screenshot (110)](https://user-images.githubusercontent.com/43207918/65293600-c793b900-db29-11e9-861e-4359265d1097.png)
+
+### When a regular customer withdraw money form saving  account, his saving account will be deducted 10 dollars.
